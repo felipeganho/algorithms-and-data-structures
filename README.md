@@ -2,7 +2,8 @@
 
   - Data Structures
     - [Simple example of abstract data type](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Example%20TAD%20ContaBancaria)
-    - [Simple Linked List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Simply%20Linked%20List)
+    - [Simply Linked List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Simply%20Linked%20List)
+    - [Double Linked List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Doubly%20Linked%20List)
     
   
   - Sorting Algorithms
