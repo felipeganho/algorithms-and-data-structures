@@ -5,6 +5,7 @@
     - [Simply Linked List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Simply%20Linked%20List)
     - [Double Linked List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Doubly%20Linked%20List)
     - [Queue](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Queue)
+    - [Stack](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Stack)
     
   
   - Sorting Algorithms
