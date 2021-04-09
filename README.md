@@ -11,6 +11,8 @@
     
   
   - Sorting Algorithms
-    - [Insertion Sort](https://github.com/felipeganho/algorithms-and-data-structures/blob/master/Sorting%20Algorithms/Insertion%20Sort/insertionSort.c)
+	- [Insertion Sort](https://github.com/felipeganho/algorithms-and-data-structures/blob/master/Sorting%20Algorithms/Insertion%20Sort/insertionSort.c)
 	- [Selection Sort](https://github.com/felipeganho/algorithms-and-data-structures/blob/master/Sorting%20Algorithms/Selection%20Sort/selectionSort.c)
 	- [Counting Sort](https://github.com/felipeganho/algorithms-and-data-structures/blob/master/Sorting%20Algorithms/Counting%20Sort/countingSort.c)
+	- [Bubble Sort](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Sorting%20Algorithms/Bubble%20Sort)
+
