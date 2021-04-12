@@ -7,6 +7,7 @@
     - [Generic List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Generic%20List)
     - [Queue](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Queue)
     - [Stack](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Stack)
+    - [Binary Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Binary%20Tree)
     
     
   
