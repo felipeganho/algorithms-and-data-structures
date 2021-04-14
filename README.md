@@ -8,6 +8,7 @@
     - [Queue](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Queue)
     - [Stack](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Stack)
     - [Binary Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Binary%20Tree)
+    - [Binary Search Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Binary%20Search%20Tree)
     
     
   
