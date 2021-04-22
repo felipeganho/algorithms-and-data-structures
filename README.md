@@ -20,3 +20,8 @@
 	- [Bubble Sort](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Sorting%20Algorithms/Bubble%20Sort)
 	- [Merge Sort](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Sorting%20Algorithms/Merge%20Sort)
 
+# Bibliographic reference
+	- THAREJA, Rema. Data Structures using C 2. ed.
+	- ZIVIANI, Nivio. Projeto de algoritmos: com implementações em PASCAL e C. 2. ed. rev. e ampl. 
+	- CORMEN, Thomas H. et al. Introduction to algorithms. 3rd ed.
+	- SCHILDT, Herbert. C completo e total. 3. ed. rev. e atual
