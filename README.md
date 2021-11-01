@@ -20,6 +20,7 @@
 	- [Bubble Sort](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Sorting%20Algorithms/Bubble%20Sort)
 	- [Merge Sort](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Sorting%20Algorithms/Merge%20Sort)
 	- [Bucket Sort](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Sorting%20Algorithms/Bucket%20Sort)
+	- [Heap Sort](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Sorting%20Algorithms/Heap%20Sort)
 	
 # Bibliographic reference
 	- THAREJA, Rema. Data Structures using C 2. ed.
