@@ -11,7 +11,7 @@
     - [Binary Search Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Binary%20Search%20Tree)
     - [HashTable](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Hashtable)
     - [AVL Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/AVL%20Tree)
-	- [Red Black Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Red%20Black%20Tree)
+    - [Red Black Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Red%20black%20Tree)
     
   
   - Sorting Algorithms
