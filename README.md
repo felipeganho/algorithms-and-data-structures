@@ -10,7 +10,7 @@
     - [Binary Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Binary%20Tree)
     - [Binary Search Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Binary%20Search%20Tree)
     - [HashTable](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Hashtable)
-    - [AVL Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/AVL%20Tree)
+    - [AVL Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Avl%20Tree)
     
   
   - Sorting Algorithms
