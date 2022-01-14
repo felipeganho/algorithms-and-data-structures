@@ -14,6 +14,7 @@
     - [Red Black Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Red%20black%20Tree)
 	- [Huffman Coding](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Huffman%20Coding)
 	- [Skip List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Skip%20List)
+	- [HashTable and AVL](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/HashTable%20and%20AVL)
     
   
   - Sorting Algorithms
