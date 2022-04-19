@@ -17,6 +17,7 @@
 	- [HashTable and AVL](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/HashTable%20and%20AVL)
 	- [Sparse Matrix](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Sparse%20Matrix)
 	- [Priority Queue](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Priority%20Queue)
+	- [Circular List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Circular%20List)
     
   
   - Sorting Algorithms
