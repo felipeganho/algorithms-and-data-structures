@@ -18,6 +18,7 @@
 	- [Sparse Matrix](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Sparse%20Matrix)
 	- [Priority Queue](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Priority%20Queue)
 	- [Circular List](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/Circular%20List)
+	- [B Tree](https://github.com/felipeganho/algorithms-and-data-structures/tree/master/Data%20Structures/B%20Tree)
     
   
   - Sorting Algorithms
